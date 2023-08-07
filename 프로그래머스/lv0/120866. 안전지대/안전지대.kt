@@ -19,7 +19,7 @@ class Solution {
                             val ny = j + dy
                             if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue
                             if (board[nx][ny] == 1) continue
-                            if (nx in 0 until n && ny in 0 until m) {
+                            if (nx in 0 until n && ny in 0 until m && board[nx][ny] != 1) {
                                 board[nx][ny] = 2
                             }
                         }
