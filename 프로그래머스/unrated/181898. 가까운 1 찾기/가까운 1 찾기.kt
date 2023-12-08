@@ -1,13 +1,8 @@
 class Solution {
     fun solution(arr: IntArray, idx: Int): Int {
-        var answer = -1 
-
         for (i in arr.indices) {
-            if (i >= idx && arr[i] == 1) {
-                answer = i
-                break 
-            }
+            if (i >= idx && arr[i] == 1) return i
         }
-        return answer
+        return -1
     }
 }

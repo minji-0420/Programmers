@@ -1,10 +1,10 @@
 # [level unrated] 가까운 1 찾기 - 181898 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181898#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181898) 
 
 ### 성능 요약
 
-메모리: 60.9 MB, 시간: 0.02 ms
+메모리: 61.3 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 12월 5일 12:9:16
+2023년 12월 5일 12:12:0
 
 ### 문제 설명
 
