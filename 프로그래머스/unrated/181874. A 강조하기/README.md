@@ -1,10 +1,10 @@
 # [level unrated] A 강조하기 - 181874 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181874#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181874) 
 
 ### 성능 요약
 
-메모리: 61.9 MB, 시간: 2.49 ms
+메모리: 60.9 MB, 시간: 7.78 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 12월 3일 9:34:32
+2023년 12월 3일 9:35:41
 
 ### 문제 설명
 
