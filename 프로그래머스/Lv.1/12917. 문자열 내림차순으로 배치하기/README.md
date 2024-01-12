@@ -1,10 +1,10 @@
 # [level Lv.1] 문자열 내림차순으로 배치하기 - 12917 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12917) 
 
 ### 성능 요약
 
-메모리: 61.9 MB, 시간: 14.69 ms
+메모리: 63.4 MB, 시간: 14.20 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 1월 6일 7:7:8
+2024년 1월 6일 7:8:26
 
 ### 문제 설명
 
